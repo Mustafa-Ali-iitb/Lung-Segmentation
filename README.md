@@ -34,3 +34,6 @@ Dice loss and dice loss with deep supervision in 'losses.py'
 | ResU-Net | 0.959 |    0.970   |
 
 *MIDS= Multi Input Deep Super Vision*
+
+
+![](https://github.com/Mustafa-Ali-iitb/Lung-Segmentation/blob/master/Final_Result.png?raw=true)
